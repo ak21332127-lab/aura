@@ -1,6 +1,6 @@
 # ASIM KHAN AURA — HORIZON 3D
 
-A complete open-world 3D driving simulation in a single self-contained `index.html` file (Three.js via CDN ES module, zero external assets).
+A complete open-world 3D driving simulation in a single self-contained `index.html` file (Three.js via CDN ES module, zero external assets; keyboard **and** touch controls).
 
 ## Run
 Open `index.html` in any modern browser (serve or double-click — no build step).
@@ -17,5 +17,6 @@ Open `index.html` in any modern browser (serve or double-click — no build step
 | L | Day / Sunset / Night |
 | 1 2 3 | Street / Drift / Off-Road setup |
 | P or Esc | Pause |
+| On-screen pads | Auto-enabled on touch devices (steer left-right, gas, brake, DRIFT handbrake) |
 
 Keywords: checkpoint runs, drift scoring, best records saved in localStorage.
